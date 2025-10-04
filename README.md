@@ -78,4 +78,4 @@ To contribute:
 
 ## ## Contact
 
-Project Link: [Link](https://github.com/NovichronasJr/NetworkTopologyAnalyzer)
+Project Link: [Link](https://github.com/Gouging-Infernos/NetworkTopologyAnalyser)
